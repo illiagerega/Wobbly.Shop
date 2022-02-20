@@ -1,0 +1,13 @@
+a:2:{s:4:"data";s:346:"<li>
+    <a href="category/iphone">iPhone</a>
+    </li><li>
+    <a href="category/airpods">AirPods</a>
+    </li><li>
+    <a href="category/macbook">MacBook</a>
+    </li><li>
+    <a href="category/gadgets">Gadgets</a>
+            <ul>
+            <li>
+    <a href="category/apple-watch">Apple Watch</a>
+    </li>        </ul>
+    </li>";s:8:"end_time";i:1641995099;}
